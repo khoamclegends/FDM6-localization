@@ -1158,7 +1158,7 @@ msgstr "Lỗi nội bộ đang có vấn đề. <br>%1 cần phải được kh�
 
 msgctxt "CrashReporter|"
 msgid "Restart %1 automatically"
-msgstr "Khởi động %1 tự động"
+msgstr "Khởi động lại %1 tự động"
 
 msgctxt "CrashReporter|"
 msgid "Failed to send the report.<br>Check your Internet connection."
