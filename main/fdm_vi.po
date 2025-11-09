@@ -1354,11 +1354,11 @@ msgstr "Hủy"
 
 msgctxt "DiskSpace|"
 msgid "Size: %1 (Disk space: %2)"
-msgstr "Kích thước: %1 (Ổ đĩa: %2)"
+msgstr "Kích thước: %1 (Khoảng trống ổ đĩa: %2)"
 
 msgctxt "DiskSpace|"
 msgid "Disk space: %1"
-msgstr "Kích thước: %1"
+msgstr "Khoảng trống ổ đĩa: %1"
 
 msgctxt "DiskSpace|"
 msgid "Size: %1"
